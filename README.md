@@ -1,4 +1,4 @@
-# agenteconomy-cloud
+# agenteconomy.cloud
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,124 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-agenteconomy-cloud is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://agenteconomy.cloud/
+What AI agents buy, sell and pay for, explained for newcomers, with market numbers you can recompute from public chain data. Weekly Pulse, seller rankings, protocol guides, and an MCP server that checks sellers before an agent pays.
+
+**Areas:** AI · Agents · Economy · Data · Marketplace
+
+## agenteconomy.cloud on APIs.io
+
+Everything profiled for agenteconomy.cloud is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/agenteconomy-cloud/](https://apis.io/providers/agenteconomy-cloud/)** — or go straight to one of the APIs or properties below.
+
+### APIs (4)
+
+- [agenteconomy.cloud Aepi API](https://apis.io/apis/agenteconomy-cloud/agenteconomy-cloud-aepi-api/) — The aepi API from agenteconomy.cloud — 3 operation(s) for aepi.
+- [agenteconomy.cloud Discovery API](https://apis.io/apis/agenteconomy-cloud/agenteconomy-cloud-discovery-api/) — The discovery API from agenteconomy.cloud — 4 operation(s) for discovery.
+- [agenteconomy.cloud Market API](https://apis.io/apis/agenteconomy-cloud/agenteconomy-cloud-market-api/) — The market API from agenteconomy.cloud — 4 operation(s) for market.
+- [agenteconomy.cloud Pricing API](https://apis.io/apis/agenteconomy-cloud/agenteconomy-cloud-pricing-api/) — The pricing API from agenteconomy.cloud — 2 operation(s) for pricing.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Agenteconomy Cloud Agentic Access](https://apis.io/agentic-access/agenteconomy-cloud/agenteconomy-cloud-agentic-access/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Agenteconomy Cloud Openapi Overlay](https://apis.io/overlays/agenteconomy-cloud/agenteconomy-cloud-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [agenteconomy.cloud API Rules](https://apis.io/rules/agenteconomy-cloud/agenteconomy-cloud-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Agenteconomy Cloud Domain Security](https://apis.io/security/agenteconomy-cloud/agenteconomy-cloud-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Agenteconomy Cloud Plans Pricing](https://apis.io/plans/agenteconomy-cloud/agenteconomy-cloud-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Agenteconomy Cloud Rate Limits](https://apis.io/rate-limits/agenteconomy-cloud/agenteconomy-cloud-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://agenteconomy.cloud/)
+- [Documentation](https://agenteconomy.cloud/guides/use-our-data)
+- [Getting started](https://agenteconomy.cloud/guides/use-our-data)
+- [API reference](https://agenteconomy.cloud/api/v1/openapi.json)
+- [Blog](https://agenteconomy.cloud/pulse)
+- [GitHub](https://github.com/Onnson/agenteconomy-mcp)
+
+## API Evangelist rating
+
+**Kin Score 40.4** — developing · rubric 0.26.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 40.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 24.2 |
+| Developer ergonomics | 31.0 |
+| Access clarity | 28.4 |
+
+**Agent readiness 27.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 10.0** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agenteconomy-cloud/](https://apis.io/providers/agenteconomy-cloud/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for agenteconomy.cloud: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/agenteconomy-cloud/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
